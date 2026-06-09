@@ -5,7 +5,7 @@ public class app {
         Scanner dato = new Scanner(System.in);
         
         System.out.println("Cual es tu nombre: ");
-        String nombre = dato.nextLine();
+        Int nombre = dato.nextLine();
         
         System.out.println("Cual es tu apellido: ");
         String apellido = dato.nextLine();
@@ -19,7 +19,11 @@ public class app {
         System.out.println("Cual es tu direccion: ");
         String direccion = dato.nextLine();
         
-        
+        System.out.println(" Resumen");
+        System.out.println("Tu nombre completo es: " + nombre + apellido );
+        System.out.println("Tu correo es: " + correo);
+        System.out.println("Tu numero de telefono es: " + telefono);
+        System.out.println("Tu direccion es: " + direccion);
         
         
     }   
