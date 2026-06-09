@@ -50,9 +50,9 @@ Este proyecto sigue un flujo profesional de colaboración con las siguientes pr�
 
 | Issue | Descripción | Responsable |
 |-------|-------------|-------------|
-| [#1]
-| [#2]
-| [#3]
+| [#1]|https://github.com/OverToaster/TrabajodeTareaProgra2/issues/1|Adriano
+| [#2]|https://github.com/OverToaster/TrabajodeTareaProgra2/issues/2|Diego
+| [#3]|https://github.com/OverToaster/TrabajodeTareaProgra2/issues/5|Diego
 
 
 ---
@@ -61,9 +61,10 @@ Este proyecto sigue un flujo profesional de colaboración con las siguientes pr�
 
 | PR | Descripción | Autor | Revisor |
 |----|-------------|-------|---------|
-| [#PR1]
-| [#PR2]
-| [#PR3]
+|[#PR1]|https://github.com/OverToaster/TrabajodeTareaProgra2/pull/3|Adriano|Diego
+|[#PR2]|https://github.com/OverToaster/TrabajodeTareaProgra2/pull/4|Diego|Adriano
+|[#PR3]|https://github.com/OverToaster/TrabajodeTareaProgra2/pull/6|Diego|Adriano
+|[#PR4]|https://github.com/OverToaster/TrabajodeTareaProgra2/pull/7|Adriano|Adriano
 
 
 ---
