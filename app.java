@@ -5,7 +5,7 @@ public class app {
         Scanner dato = new Scanner(System.in);
         
         System.out.println("Cual es tu nombre: ");
-        Int nombre = dato.nextLine();
+        String nombre = dato.nextLine();
         
         System.out.println("Cual es tu apellido: ");
         String apellido = dato.nextLine();
