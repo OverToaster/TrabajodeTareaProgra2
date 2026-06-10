@@ -72,25 +72,29 @@ Este proyecto sigue un flujo profesional de colaboración con las siguientes pr�
 ### Capturas de pantalla
 
 #### Branches
-![Branches del repositorio]()
+![Branches del repositorio](assets/branches.png)
 
 #### Issues
-![Lista de issues]()
+![Lista de issues](assets/issues.png)
 
 #### Pull Requests
-![Pull Requests]()
+![Pull Requests](assets/PR.png)
 
 #### Conflicto de merge
-![Conflicto de merge]()
+![Conflicto de merge](assets/mergeE.png)
+![Conflicto de merge2](assets/Error.png)
 
 #### Resolución del conflicto
-![Resolución del conflicto]()
+![Resolución del conflicto](assets/solucionando.png)
+
+Si se ve muy borroso. 
+Solo se edito en el readme en blanco al lado del titular el nombre de cada uno, luego se utilizo la opcion "Accept incoming change".
 
 #### Release / Tag
-![Tag de la versión final]()
+![Tag de la versión final](assets/release.png)
 
 #### Ejecución del programa
-![Ejecución en consola]()
+![Ejecución en consola](assets/Ejecucion.png)
 
 
 ## 📦 Versión
